@@ -9,3 +9,5 @@ Example:
 Import-Module .\Invoke-WebRequest.ps1
 Invoke-WebRequest -Uri "http://httpbin.org/ip"
 ```
+
+If people want more functionality, create an Issue in the issues section. 
